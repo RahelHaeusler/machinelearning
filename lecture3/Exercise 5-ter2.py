@@ -2,6 +2,7 @@
 from googletrans import Translator
 
 
+
 # Define function
 def translate_text(text_from_lang) -> str:
     translator = Translator()

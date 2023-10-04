@@ -3,6 +3,7 @@
 # Global constant for conversion
 KILOMETERS_TO_MILES = 0.6214
 
+
 # main def
 def main():
     # Local variables

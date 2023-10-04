@@ -4,6 +4,7 @@ number_two = int(input("Please enter an integer: "))
 number_three = int(input("Please enter an integer: "))
 
 
+
 # Define function
 def find_max(a, b, c) -> int:
     if (a >= b) and (a >= c):  # If 'a' is greater than or equal to both 'b' and 'c'

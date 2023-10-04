@@ -1,5 +1,6 @@
 # Programming Exercise 5-12
 
+
 # main module
 def main():
     # Local variables
